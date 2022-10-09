@@ -1,10 +1,10 @@
 ## Description
 
-Test task AKDevGroup.
+Test task AKDevGroupTest.
 
 ## Installation
-1. git clone git@github.com:pa3datka/AKDevGroup.git
-2. cd ./AKDevGroup
+1. git clone git@github.com:pa3datka/AKDevGroupTest.git
+2. cd ./AKDevGroupTest
 
 ### create .env
 3. cp .env.example .env
